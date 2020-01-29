@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Lena\'s Videotheque' , // Required
   author: 'Lena Zerlav', // Required
-  description: 'Full-stack Web Developer',
-  primaryColor: 'purpe', // Required
+  description: 'Every time we see a movie we experience a collective dream...',
+  primaryColor: 'purple', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
