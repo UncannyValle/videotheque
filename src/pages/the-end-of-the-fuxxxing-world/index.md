@@ -1,6 +1,6 @@
 ---
 title: It truly is the fu***ing end...
-date: "2018-07-01"
+date: "2020-01-28"
 featuredImage: './featured.jpg'
 ---
 Just saw the last season for The End of the F***ing World and it was a fitting end to a dark and emotionally detached series that gave me my share of awkward laughs. The show could have been a dull second note after the amazing first season, that although ends abruptly, ends in a realistic and appropriate tone.
