@@ -1,10 +1,10 @@
 import styled from 'styled-components';
 
 const P = styled.p`
-  color: #666d71;
+  color: rebeccapurple;
   display: block;
-  font-size: 1.6em;
-  margin: 50px 0 0 0;
+  font-size: 2em;
+  margin: 0;
   text-align: center;
 `;
 
