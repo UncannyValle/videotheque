@@ -5,6 +5,7 @@ const Intro = styled.p`
   font-size: 1.6em;
   display: block;
   color: #666d71;
+  margin:1.5em;
 `;
 
 export default Intro;
